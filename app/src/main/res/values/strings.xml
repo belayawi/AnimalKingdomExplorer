@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="species">Species</string>
+    <string name="animals">Animals</string>
+    <string name="animals_details">Animal Details</string>
+    <string name="species_details">Species Details</string>
+    <string name="name">Name</string>
+    <string name="habitat">Habitat</string>
+    <string name="diet">Diet</string>
+    <string name="species_name">Name</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

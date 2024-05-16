@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <EditText
+        android:id="@+id/etAnimalName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:hint="@string/name" />
+
+    <EditText
+        android:id="@+id/etAnimalHabitat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/habitat" />
+
+    <EditText
+        android:id="@+id/etAnimalDiet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/diet" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save" />
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancel" />
+
+</LinearLayout>
